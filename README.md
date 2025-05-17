@@ -1,3 +1,5 @@
+## In 2025, we have new tools like chatbox/AnythingLLM + ollama/LM Stuido, etc. This repo is now archived.
+
 # PrivateGPT 
 
 <a href="https://trendshift.io/repositories/2601" target="_blank"><img src="https://trendshift.io/api/badge/repositories/2601" alt="imartinez%2FprivateGPT | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
